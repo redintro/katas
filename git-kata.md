@@ -52,7 +52,7 @@
 
 - Open file in Vim: vim myfile
 
-- Add new line and enter insert mode: o
+- Add new line and enter insert mode: Shift + G then o
 
 - Add additional content: This is some more additional file content
 
@@ -64,7 +64,7 @@
 
 - Open file in Vim: vim myfile
 
-- Add new line and enter insert mode: o
+- Add new line and enter insert mode: Shift + G then o
 
 - Add additional content: This is even more additional file content
 
@@ -84,6 +84,10 @@
 
 - View changes made by last commit: git log -1 -p HEAD 
 
+- Stage file: git add myfile
+
+- Commit file: git commit -m "Added more additional content"
+
 ### Branch
 
 - Create a new branch and switch to it: git checkout -b development
@@ -92,9 +96,9 @@
 
 - Open file in Vim: vim myfile
 
-- Add new line and enter insert mode: o
+- Add new line and enter insert mode: Shift + G then o
 
-- Add additional content: This is some additional file content from the development branch
+- Add additional content: This is some additional content from the development branch
 
 - Save and exit Vim: ESC :wq ENTER
 
