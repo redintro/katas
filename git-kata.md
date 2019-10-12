@@ -98,7 +98,7 @@
 
 - Add new line and enter insert mode: Shift + G then o
 
-- Add additional content: This is some additional content from the development branch
+- Add additional content: This is some additional file content from the development branch
 
 - Save and exit Vim: ESC :wq ENTER
 
