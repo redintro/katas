@@ -1,5 +1,4 @@
-### Git Kata
-
+### Git Kata 
 ### Initial Commit
 
 - Create a practice project directory: mkdir myproject
@@ -104,7 +103,7 @@
 
 - Stage file: git add myfile
 
-- Commit file: git commit -m "Added additional content from development branch"
+- Commit file: git commit -m "Added additional content from the development branch"
 
 - Compare branches: git diff master..development
 
